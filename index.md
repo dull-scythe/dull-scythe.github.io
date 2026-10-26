@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+My name is Tey and I am an undergraduate student at Florida Atlantic University. I am currently pursuing a B.A. in Computer Science with double minors in Artificial Intelligence and Cybersecurity. I love learning about technology, especially how it has influenced and changed the world around us as well as the societal effects of such drastic change. I work within Apple Retail, so I'm on the frontlines of the intersection of technology and society. Working in the Genius Bar fueled my interest to pursue Cybersecurity, with how common it is for people to be hacked. I hope to gain and refine my knowledge to eventually teach others how to properly care and protect their privacy and data. I also just hope to learn some really dope things from some really dope people! 
